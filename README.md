@@ -4,7 +4,6 @@ Project build during Alura #7DaysOfCode - HTML and CSS based on [Figma](https://
 
 ### Day 1:
 
-<<<<<<< HEAD
 Create a navbar with logo, links and buttons.
 
 ![navbar](https://user-images.githubusercontent.com/80278757/186708445-93349467-bcfb-4914-814a-95307bb5d890.png)
@@ -19,6 +18,4 @@ Create a header with about content.
 
 Metrics section contained a title with two styles ans a paragraph.
 
-# ![metricas](/assets/img/readme/metricas.png)
-
-> > > > > > > b659a78fac4e32b3b779c1d3f5300587ce685645
+![metricas](/assets/img/readme/metricas.png)
