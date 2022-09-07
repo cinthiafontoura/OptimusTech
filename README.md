@@ -11,7 +11,7 @@ Create a navbar with logo, links and buttons.
 
 ### Day 2:
 
-About section
+Create a header with about content.
 
 ![about-us](/assets/img/readme/about-us.png)
 
@@ -19,15 +19,6 @@ About section
 
 Metrics section contained a title with two styles ans a paragraph.
 
-![metricas](/assets/img/readme/metricas.png)
-=======
+# ![metricas](/assets/img/readme/metricas.png)
 
-### Day 2:
-  Create a header with about content
-  
-  ![header](https://user-images.githubusercontent.com/80278757/186930629-27576e00-6112-40f6-902d-457513b1f734.png)
-
-
-## Credits
-[Figma](https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?node-id=0%3A9878) file
->>>>>>> b659a78fac4e32b3b779c1d3f5300587ce685645
+> > > > > > > b659a78fac4e32b3b779c1d3f5300587ce685645
